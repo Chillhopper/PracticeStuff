@@ -1,0 +1,12 @@
+# Goal definition
+sensor_msgs/Image image
+
+---
+# Result definition
+bool success
+string message
+
+---
+# Feedback definition
+string progress
+
